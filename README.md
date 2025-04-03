@@ -69,22 +69,6 @@ During training, the system tracks:
 - **Reward Progression**: Learning curve over episodes.
 - **Collision Rate**: Frequency of UAV collisions.
 
-
-
 ---
 
-## Future Enhancements
-- Extend to **more than 3 UAVs** for better scalability.
-- **Dynamic Flood Events**: Introduce real-time map changes.
-- **Integrate Real Segmentation Data**: Replace synthetic flood data with real model predictions.
-
----
-
-## Citation
-If you use this code for research or projects, please cite appropriately.
-
----
-
-## License
-This project is licensed under the MIT License.
 
