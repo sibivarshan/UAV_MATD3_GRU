@@ -1,0 +1,120 @@
+[2025-04-02 10:42:13][APF-MATD3][INFO] Logging to file: logs/run_20250402_104213.log
+[2025-04-02 10:42:13][APF-MATD3][INFO] ==================================================
+[2025-04-02 10:42:13][APF-MATD3][INFO] SYSTEM INFORMATION
+[2025-04-02 10:42:13][APF-MATD3][INFO] ==================================================
+[2025-04-02 10:42:13][APF-MATD3][INFO] PyTorch version: 2.5.1+cu121
+[2025-04-02 10:42:13][APF-MATD3][INFO] CUDA available: True
+[2025-04-02 10:42:13][APF-MATD3][INFO] CUDA device: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2025-04-02 10:42:13][APF-MATD3][INFO] CUDA device count: 1
+[2025-04-02 10:42:13][APF-MATD3][INFO] NumPy version: 1.26.4
+[2025-04-02 10:42:13][APF-MATD3][INFO] ==================================================
+[2025-04-02 10:42:13][APF-MATD3][INFO] Initializing UAV Environment with 3 agents, visualization: True
+[2025-04-02 10:42:13][APF-MATD3][INFO] Connecting to PyBullet GUI
+[2025-04-02 10:42:16][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:42:18][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:42:22][APF-MATD3][INFO] Initializing UAV Environment with 3 agents, visualization: False
+[2025-04-02 10:42:22][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:42:24][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:42:38][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:43:05][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:43:32][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:43:58][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:44:25][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:44:52][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:45:17][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:45:42][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:46:07][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:46:31][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:46:56][APF-MATD3][INFO] Initializing UAV Environment with 3 agents, visualization: True
+[2025-04-02 10:46:56][APF-MATD3][INFO] Connecting to PyBullet GUI
+[2025-04-02 10:46:56][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:46:56][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:47:32][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:48:00][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:48:25][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:48:50][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:49:16][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:49:41][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:50:06][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:50:32][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:50:57][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:51:22][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:51:48][APF-MATD3][INFO] Initializing UAV Environment with 3 agents, visualization: True
+[2025-04-02 10:51:48][APF-MATD3][INFO] Connecting to PyBullet GUI
+[2025-04-02 10:51:48][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:52:14][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:52:39][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:53:05][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:53:30][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:53:56][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:54:22][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:54:48][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:55:13][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:55:39][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:56:09][APF-MATD3][INFO] Initializing UAV Environment with 3 agents, visualization: True
+[2025-04-02 10:56:09][APF-MATD3][INFO] Connecting to PyBullet GUI
+[2025-04-02 10:56:09][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:56:37][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:57:09][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:57:38][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:58:05][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:58:33][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:59:01][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:59:31][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 10:59:58][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:00:28][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:00:59][APF-MATD3][INFO] Initializing UAV Environment with 3 agents, visualization: True
+[2025-04-02 11:00:59][APF-MATD3][INFO] Connecting to PyBullet GUI
+[2025-04-02 11:00:59][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:01:29][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:01:58][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:02:27][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:02:57][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:03:26][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:03:54][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:04:21][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:04:50][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:05:18][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:05:45][APF-MATD3][INFO] Initializing UAV Environment with 3 agents, visualization: True
+[2025-04-02 11:05:45][APF-MATD3][INFO] Connecting to PyBullet GUI
+[2025-04-02 11:05:45][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:06:18][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:06:55][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:07:32][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:08:09][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:08:46][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:09:26][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:10:07][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:10:48][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:11:29][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:12:08][APF-MATD3][INFO] Initializing UAV Environment with 3 agents, visualization: True
+[2025-04-02 11:12:08][APF-MATD3][INFO] Connecting to PyBullet GUI
+[2025-04-02 11:12:08][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:12:47][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:13:25][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:14:04][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:14:51][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:15:40][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:16:12][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:16:35][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:16:58][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:17:20][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:17:44][APF-MATD3][INFO] Initializing UAV Environment with 3 agents, visualization: True
+[2025-04-02 11:17:44][APF-MATD3][INFO] Connecting to PyBullet GUI
+[2025-04-02 11:17:44][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:18:08][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:18:32][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:18:52][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:19:13][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:19:33][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:19:54][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:20:14][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:20:35][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:20:57][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:21:19][APF-MATD3][INFO] Initializing UAV Environment with 3 agents, visualization: True
+[2025-04-02 11:21:19][APF-MATD3][INFO] Connecting to PyBullet GUI
+[2025-04-02 11:21:19][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:21:39][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:22:01][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:22:22][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 11:22:43][APF-MATD3][INFO] Generating 4 obstacles

@@ -1,0 +1,13 @@
+[2025-04-02 13:16:05][APF-MATD3][INFO] Logging to file: logs/run_20250402_131605.log
+[2025-04-02 13:16:05][APF-MATD3][INFO] ==================================================
+[2025-04-02 13:16:05][APF-MATD3][INFO] SYSTEM INFORMATION
+[2025-04-02 13:16:05][APF-MATD3][INFO] ==================================================
+[2025-04-02 13:16:05][APF-MATD3][INFO] PyTorch version: 2.5.1+cu121
+[2025-04-02 13:16:05][APF-MATD3][INFO] CUDA available: True
+[2025-04-02 13:16:05][APF-MATD3][INFO] CUDA device: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2025-04-02 13:16:05][APF-MATD3][INFO] CUDA device count: 1
+[2025-04-02 13:16:05][APF-MATD3][INFO] NumPy version: 1.26.4
+[2025-04-02 13:16:05][APF-MATD3][INFO] ==================================================
+[2025-04-02 13:16:10][APF-MATD3][INFO] Initializing UAV Environment with 3 agents, visualization: False
+[2025-04-02 13:16:10][APF-MATD3][INFO] Generating 4 obstacles
+[2025-04-02 13:16:10][APF-MATD3][INFO] Generating 4 obstacles
